@@ -10,7 +10,7 @@
 
 运行fem文件夹中的fem_main.m文件
 
-## 结果：
+## 3.结果：
 
 - K.mat：矩阵
 - RF.mat/RF11.mat/RF22.mat：反力
